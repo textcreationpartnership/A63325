@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True account of the invitation and entertainment of the D. of Y. at Merchant-Taylors-Hall by the artillery-men on Tuesday, October 21th, 1679 : in a letter, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63325</idno><idno type="EEBO-CITATION">17151257</idno>
+  <idno type="VID">105931</idno>
+  <idno type="EEBO-PROQUEST">2240878429</idno>
+  
+            <idno type="STC">Wing T2376</idno>
+            <idno type="STC">ESTC R37906</idno>
+            <idno type="OCLC">17151257</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A63325)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105931)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1160:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True account of the invitation and entertainment of the D. of Y. at Merchant-Taylors-Hall by the artillery-men on Tuesday, October 21th, 1679 : in a letter, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701.</term>
+               <term type="topical_term">Anti-Catholicism --  England.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:105931:1"/>
+            <pb n="1" facs="tcp:105931:1"/>
+            <head>True <hi>ACCOUNT</hi> of the Invitation and Entertainment of the <hi>D.</hi> of <hi>Y.</hi> at <hi>Merchant-Taylors-Hall,</hi> by the <hi>ARTILLERY-MEN,</hi> on Tuesday <hi>October 21<seg rend="sup">th.</seg> 1679.</hi> In a Letter, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>IN my last, I sent you a printed Paper, intituled <hi>Londons Choice of Citizens,</hi> &amp;c. which I could testifie to the truth of in almost all the particulars: And therefore I forbore to give it you in writing. But there having pass'd in publick since that, somewhat which may seem to im<g ref="char:EOLhyphen"/>peach the Certainty of that Relation in point of the Cities affection to the D. of <hi>Y</hi>'s. Interest, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thought good to give you such an account of that Affair, as my Occasions and Opportunities <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ll give me leave to be acquainted with.</p>
+            <p>You may wonder indeed that, (after the Citizens by their Addresses to the Lord Maior, for in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>asing the City-Guards, in respect of the greater danger by the D's presence at Court; and their <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> publick and unanimous owning of their former Choice of Par-liament-men, and in them the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>l of Exclusion of the D. pass'd by the Commons of <hi>England</hi> in Parliament,) you may wonder <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> say) that the Artillery-Company, which contains about 700 Citizens and others, should invite <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e D. to such a publick Entertainment, which bears the face of great Respect and Honour: But <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen you are acquainted with the Reason and Manner of it, you will see no Inconsistency in these <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ings, nor Mutability in the minds of the Citizens.</p>
+            <p>You may please to know, that some years ago the D. of <hi>Y.</hi> was chosen to be Chief Leader or <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ptain of this Company, and with him many Lords and Courtiers were admitted members of it: <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that if we may judge by the choice of Stewards, both the last Year, and for the Year ensuing, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e may perceive as many great Courtiers as Citizens to have place in it. For the last year the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ewards are named to us to have been, the Earl of <hi>Ossory,</hi> the Earl of <hi>Feversham,</hi> Coll. <hi>Legg,</hi> and <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Robert Holmes,</hi> of the Court; of the City, Sir <hi>John Chapman,</hi> Sir <hi>Rich. How,</hi> Maj. <hi>Horn,</hi>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>pt. <hi>Hudson.</hi> Now the Stewards bearing all the Extraordinary Charge, it is at ther liberty to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rite whom they please: How then could it be imagin'd that these, who are half of them Cour<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rs, and the other half Courtly Citizens, should omit any such thing as might tend to the Re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tation of the D's. Interest, as they hoped this would prove: And for the same cause the D. <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uld not but accept of the Invitation. Nay, it is commonly said, he gave 200 <hi>l.</hi> towards the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ast. He was attended with his Troop of Guards, and pass'd coming and going through the most <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>blick Streets to and from <hi>Merchant-Taylors-Hall,</hi> where they Dined; whither his R. H. came <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s we are told in the <hi>Gazette</hi>) about an hour before the Artillery-men. For it is usual on these <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ccasions to have Prayers and a Sermon, which was perform'd at <hi>Bowe-Church</hi> in <hi>Cheap-side;</hi> to which place they marched from their Rendezvous at <hi>Guild-Hall</hi> about Eighty or Ninety men. Their Preacher was a person whose Anti-English Principles are well enough known by his printed <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ermons; in one of which Preached in <hi>January</hi> last, he falls foul upon a great man for declaring, <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat the King is King by Law;</hi> and concerning the dismal Fires which were before that time <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>early discover'd to be effected by Papists, this Preacher assigns them (as <hi>Langhorn</hi> once) to the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dgements of God upon us; and so he may the Sufferings of the Martyrs in <hi>Smithfield.</hi>
+            </p>
+            <p>The Sermon ended, they marched from Church to Dinner; first the Stewards, then the Lord Maior, and Nine or Ten Aldermen, not the Court of Aldermen, as the <hi>Gazetteer</hi> is pleased to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell us; for they require Thirteen to make a <hi>Quorum,</hi> and their Number is Twenty four: Then <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e rest in their order, which in all, Captains and other Commission Officers, with Serjeants, Corporals, Marshals, and other common men being reckon'd, amounted (as I am inform'd) to One hundred twenty eight. Not but that some hundreds of other Citizens of this Company had paid the usual Ticket-money (which is 2 <hi>s.</hi> 6 <hi>d.</hi>) and taken Tickets for admittance; but not being willing to give the countenance of their presence to that Entertainment, when they under<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tood the D. was there; some made no use of their Tickets, some tore them to pieces, some gave them to their Porters, or other mean men, that they apparel'd in their Holiday Cloaths might be admitted to feast with the D. But others sold them for 12 <hi>d.</hi> or 6 <hi>d.</hi> apiece, as they could meet with persons whose curiosity led them to behold the manner of that Assembly, and take part of their Cheer; with such Guests as these they furnisht their Tables. Thus indeed the Entertainment might be great, because the Company was little: And it might be splendid too in the Eyes of such as never were at the like before. But it is not to be doubted but the Noble Stewards (especially if assisted with the D's. Purse) would make the Entertainment suitable to the design they had in the Invitation.</p>
+            <pb n="2" facs="tcp:105931:2"/>
+            <p>After Dinner, we are told, his R. H. return'd to <hi>White-Hall,</hi> leaving the Company ex<g ref="char:EOLhyphen"/>treamly pleased with the Honour he had done them. <hi>Honor est in honorante,</hi> is usually said but if I durst presume to give my Judgement in this case, I should determine that his R. H. ra<g ref="char:EOLunhyphen"/>ther was extreamly pleas'd with the Honour they had done him: For certainly he cannot b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> resent it kindly, that some Citizens should be made to seem to treat him with Honour in th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> City, whom the late Commons in Parliament thought worthy to be treated much otherwise. This Entertainment was (I doubt not) design'd to retrieve a little in the Eye of the Nation, th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Reputation the <hi>York</hi>-Interest lost in the late Choice of Parliament-men; and it may perhap<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> with those that look no further than the <hi>Gazzette</hi> for Intelligence; but whether it will do so <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no with those that acquaint themselves with the true Circumstances of things, I leave you to judge.</p>
+            <p>I need not take notice of what the <hi>Domestick Intelligence</hi> tells you, that among other Health<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they drank one to the happy Succession in the Right Line; for it's reported they drank so ma<g ref="char:EOLhyphen"/>ny Healths, that one of the Grave City Sirs lost his Beaver-Hat and Golden Hat-band, and le<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the greater Company to sport with the Foot-boyes; nor of the D's. Promise to defend the Re<g ref="char:EOLhyphen"/>ligion establish'd by Law in the Church of <hi>England,</hi> if indeed he made any such Promise; for no man can think, but that he who is obliged by the Principles and Articles of his Church, un<g ref="char:EOLhyphen"/>der the Penalties of Excommunication, and consequently Damnation in the world to come; and of Deposition from and Deprivation of his Crowns and Dignities, with the danger of his Life by Stab, Pistoll, Poyson, Warr or otherwise, in this World; to extirpate and destroy all He<g ref="char:EOLhyphen"/>reticks; I say it cannot be imagin'd but a Jesuited Papist will prove an excellent Defender of the Religion of the Church of <hi>England</hi> establish'd by Law; since all the Members of our Church are every year solemnly condemn'd for Hereticks by the Pope. And why should we doubt, since he has given his word for it to the <hi>Artillery-men,</hi> but he will Govern according to Law, and secure to us all the Immunities, Rights and Defences that our Laws give us, when he comes to be Supreme; since he is not now capable of bearing of any Office or Trust in the Govern<g ref="char:EOLhyphen"/>ment whatsoever, being excluded therefrom for the necessary Preservation of the Government and Religion.</p>
+            <p>But I must not omit to tell you what happened in the D's. return thorow the <hi>Poultrey.</hi> For there in passing through the many Hundreds of Beholders, a Cry arose, <hi>No Pope, no Pope; No Papist, no Papist;</hi> this attended him up into <hi>Cheapside;</hi> as in the Morning at his coming within <hi>Temple-barre,</hi> the People began to Hiss, and utter their distaste.</p>
+            <p>You may see by this, how little they gain'd by their project of a publick Entertainment, which indeed was no more an Act of the City, than if the Stewards of one of the Forty eight Companies had invited the D. and of that Company a sixth or seventh part only had appear'd: which is another happy demonstration of the constant Affection of the Citizens to their Reli<g ref="char:EOLhyphen"/>gion and Government, and Aversation to Popery.</p>
+            <p>This, Sir, is a very faithful Account of this Transaction, so far as it is come within my know<g ref="char:EOLhyphen"/>ledge. I doubt not of your taking it in good part, and for an Evidence that I am,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your, &amp;c.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
